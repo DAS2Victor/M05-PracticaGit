@@ -16,7 +16,7 @@ public class Principal {
      */
     public static void main(String[] args) {
         // Imprimiu aquí els vostres noms
-        
+        System.out.println("Pol Béjar");
     }
     
 }
