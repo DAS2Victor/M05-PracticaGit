@@ -18,6 +18,7 @@ public class Principal {
         // Imprimiu aquí els vostres noms
         System.out.println("Pol Béjar");
         System.out.println("Sergi Barona");
+        System.out.println("Arnau Dominguez");
     }
     
 }
