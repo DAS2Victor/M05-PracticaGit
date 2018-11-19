@@ -19,6 +19,7 @@ public class Principal {
         System.out.println("Pol Béjar");
         System.out.println("Sergi Barona");
         System.out.println("Arnau Dominguez");
+        System.out.println("Marc Pacheco");
     }
     
 }
