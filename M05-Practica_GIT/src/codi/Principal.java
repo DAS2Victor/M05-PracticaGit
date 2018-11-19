@@ -23,6 +23,7 @@ public class Principal {
         System.out.println("Marc Lechado Sanchez-Fortuny");
         System.out.println("Oscar Bernárdez");
         System.out.println("Arnau Viladegut");
+        System.out.println("Manuel Casado");
     }
     
 }
