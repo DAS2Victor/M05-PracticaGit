@@ -24,7 +24,7 @@ public class Principal {
         System.out.println("Oscar Bernárdez");
         System.out.println("Arnau Viladegut");
         System.out.println("Manuel Casado");
-        System.out.println("Guillem Zurita");
+        System.out.println("Guillem Zurita Santeugini");
     }
     
 }
